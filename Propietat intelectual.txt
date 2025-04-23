@@ -1,0 +1,14 @@
+Cómo identificar y tratar outliers con Python
+Article publicat el 13/09/2023 per Marta Castrillo
+Link: https://medium.com/@martacasdelg/c%C3%B3mo-identificar-y-tratar-outliers-con-python-bf7dd530fc3
+Estatus legal: desconegut
+
+Localización de Dato Atípico y Métodos de Detección de Outliers
+Article publicat en data desconeguda per Alexander Rosquez
+Link: https://www.ceupe.pe/blog/localizacion-de-dato-atipico-y-metodos-de-deteccion-de-outliers.html
+Estatus legal: copyrigt CEUPE - European Bussiness School
+
+How to find z score in R-Easy Calculation-Quick Guide
+Article publicat el 30/06/2021 per finnstats
+Link: https://www.r-bloggers.com/2021/06/how-to-find-z-score-in-r-easy-calculation-quick-guide/
+Estatus legal: copyright 2022 | MH Corporate basic by MH Themes
