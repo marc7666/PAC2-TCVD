@@ -1,5 +1,5 @@
 Cómo identificar y tratar outliers con Python
-Article publicat el 13/09/2023 per Marta Castrillo
+Article a data del 13/09/2023 per Marta Castrillo
 Link: https://medium.com/@martacasdelg/c%C3%B3mo-identificar-y-tratar-outliers-con-python-bf7dd530fc3
 Estatus legal: desconegut
 
@@ -9,6 +9,79 @@ Link: https://www.ceupe.pe/blog/localizacion-de-dato-atipico-y-metodos-de-detecc
 Estatus legal: copyrigt CEUPE - European Bussiness School
 
 How to find z score in R-Easy Calculation-Quick Guide
-Article publicat el 30/06/2021 per finnstats
+Article a data del 30/06/2021 per finnstats
 Link: https://www.r-bloggers.com/2021/06/how-to-find-z-score-in-r-easy-calculation-quick-guide/
 Estatus legal: copyright 2022 | MH Corporate basic by MH Themes
+
+Cómo gestionar valores perdidos
+Article a data del 17/08/2021 per autor desconegut
+Link: https://www.ibm.com/docs/es/spss-modeler/saas?topic=values-handling-missing
+Estatus legal: Copyright IBM Corporation 1994, 2021
+
+Detección de datos perdidos
+Article a data de març del 2025 per autor desconegut
+Link: https://silvia-pineda.gitbook.io/estudio-y-depuracion-de-datos/tema-3-valores-perdidos/deteccion-de-datos-perdidos
+Estatus legal: No especificat
+
+Guía completa para el Manejo de Datos Faltantes
+Article a data desconeguda per autor no especificat
+Link: https://codificandobits.com/blog/guia-manejo-datos-faltantes/
+Estatus legal: Copyright Codificando Bits, LLC
+
+2.3 Valores faltantes
+Article a data desconeguda per autor no especificat
+Link: https://www.uv.es/webgid/Descriptiva/23_valores_faltantes.html
+Estatus legal: No especificat
+
+
+Tratamiento de datos perdidos (Imputación Simple)
+Article a data de març del 2025 per autor desconegut
+Link: https://silvia-pineda.gitbook.io/estudio-y-depuracion-de-datos/tema-3-valores-perdidos/tratamiento-de-datos-perdidos-imputacion-simple
+Estatus legal: No especificat
+
+
+¿Qué es la correlación estadística y cómo interpretarla?
+Article a data de jkuliol del 2020 per Rosana Ferrero
+Link: https://www.maximaformacion.es/blog-dat/que-es-la-correlacion-estadistica-y-como-interpretarla/
+Estatus legal: Copyright Máxima Formación 2025
+
+Correlación
+Article a data desconeguda per autor no especificat
+Link: https://www.jmp.com/es/statistics-knowledge-portal/what-is-correlation
+Estatus legal: Copyright 2025 JMP Statistical Discovery LLC
+
+What are the differences between linear and logistic regression models?
+Article a data desconeguda per Ehraz Maqbool
+Link: https://www.linkedin.com/advice/0/what-differences-between-linear-logistic-regression-eh6cf?lang=es&lang=es&originalSubdomain=es
+Estatus legal: Copyright LinkedIn 2025
+
+Regresión lineal y regresión logística en el análisis predictivo: casos de éxito y desafíos
+Article a data desconeguda per autor no especificat
+Link: https://aulamarketing.net/regresion-lineal-y-logistica-analisis-predictivo
+Estatus legal: desconegut
+
+
+Aprendizaje supervisado y no supervisado: diferencias y similitudes
+Article a data 17/05/2023 per autor desconegut
+Link: https://smowl.net/es/blog/aprendizaje-supervisado-no-supervisado/#elementor-toc__heading-anchor-0
+Estatus legal: Copyright Smowltech
+
+¿Qué son los modelos de clasificación?
+Article a data 31/07/2024 per Jacob Murel
+Link: https://www.ibm.com/es-es/think/topics/classification-models
+Estatus legal: desconegut
+
+Métricas de Clasificación
+Article a data desonceguda per Roberto Díaz
+Link: https://www.themachinelearners.com/metricas-de-clasificacion/#Repaso_breve_de_las_metricas_de_clasificacion
+Estatus legal: Copyright The Machine Learners 2025
+
+Clasificación en machine learning: Introducción
+Article a data 05/03/2024 per Zoumana Kelta
+Link: https://www.datacamp.com/es/blog/classification-machine-learning
+Estatus legal: Copyright 2025 DataCamp, Inc.
+
+Visualización de datos
+Article a data desconeguda per autor desconegut
+Link: https://es.wikipedia.org/wiki/Visualizaci%C3%B3n_de_datos
+Estatus legal: Creative Commons Attribution-ShareAlike 4.0 International
